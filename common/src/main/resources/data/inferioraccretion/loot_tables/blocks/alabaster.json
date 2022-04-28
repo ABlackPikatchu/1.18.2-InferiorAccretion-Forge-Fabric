@@ -7,7 +7,7 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "inferioraccretion:example_block"
+          "name": "inferioraccretion:alabaster"
         }
       ],
       "conditions": [
